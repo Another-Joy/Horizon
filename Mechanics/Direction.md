@@ -1,0 +1,1 @@
+A Machines's Direction is important for weakpoints and components

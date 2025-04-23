@@ -1,0 +1,1 @@
+"Enemies" become "Machines" or "Bandits"

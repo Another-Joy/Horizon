@@ -1,0 +1,1 @@
+Whenever a machine attempts to move toward a Hunter and then do a Melee attack, if the hunter was already within range at the beginning of the machines activation, the machine deals +50%/x2 damage, based on [[Difficulty]]

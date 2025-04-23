@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "f4367a66a5bff9a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "8cb08a012a022484",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e72c25387cb154de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machines/Strider.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Strider"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3dc4e1c0a07bc318",
+    "type": "split",
+    "children": [
+      {
+        "id": "a59eb195fe7db982",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7312eec8c053515e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8415f9ed9ee044d1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "578e89d894d9c5f9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c2834152e22fae97",
+    "type": "split",
+    "children": [
+      {
+        "id": "d48b3b235c2ca18a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "96e8923c739c304d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Machines/Strider.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Strider"
+            }
+          },
+          {
+            "id": "70373c1540f1eacd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Machines/Strider.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Strider"
+            }
+          },
+          {
+            "id": "0e782b284ca5918e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "bb7cae977e7f6eae",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Machines/Strider.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Strider"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e72c25387cb154de",
+  "lastOpenFiles": [
+    "Machines/Watcher.md",
+    "Machines/Strider.md",
+    "Weapons/Spears.md",
+    "Weapons/War Bows.md",
+    "Weapons/Slings.md",
+    "Weapons/Sharpshoot Bows.md",
+    "Weapons/Rattlers.md",
+    "Untitled.canvas"
+  ]
+}

@@ -1,0 +1,1 @@
+You can remove any cards from your hunter deck and put them into storage. At any Campfire Phase, you can change your deck from your storage. You have infinite basic ammo in your storage (

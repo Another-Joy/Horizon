@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "64d888d5ee26de54",
+    "type": "split",
+    "children": [
+      {
+        "id": "f40e4169a02fa2ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a5eb1e318fe5486",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machines/Generic/Armor.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Armor"
+            }
+          },
+          {
+            "id": "bee2d15514bde448",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machines/Watcher.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Watcher"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dcd9d787360a2736",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "0bec7cd2274e8a07",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "f078afa227e3155d",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "86c6ac698a4d58d9",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "ec541d56637ec05e",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "fc214d7ef720c19c",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "64e90e6dbb280d86",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Machines/Watcher.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "fa113339d14956c1",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Weapons/War Bow.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "b6f79983f63e03ba",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Weapons/War Bow.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "bee2d15514bde448",
+  "lastOpenFiles": [
+    "General Errata.md",
+    "Machines/Generic/Armor.md",
+    "Untitled",
+    "Weapons/Generic.md",
+    "Weapons/War Bows.md",
+    "Weapons/Rattlers.md",
+    "Weapons/Slings.md",
+    "Weapons/Sharpshoot Bows.md",
+    "Weapons/Spears.md",
+    "Machines/Watcher.md",
+    "Mechanics/Roaming Machines.md",
+    "Mechanics/Direction.md",
+    "Mechanics/Status Effects/Burning.md",
+    "Mechanics/Status Effects/Frozen.md",
+    "Mechanics/Difficulty.md",
+    "Mechanics/Deck management.md",
+    "Mechanics/Status Effects",
+    "Mechanics/Campfire Storage.md",
+    "Machines/Generic/Machines's Melee Attacks.md",
+    "Machines/Generic",
+    "Mechanics",
+    "Weapons",
+    "Machines"
+  ]
+}
