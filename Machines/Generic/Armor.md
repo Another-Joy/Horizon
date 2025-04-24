@@ -1,5 +1,5 @@
-All machines's armor is doubled/tripled, based on the [[Difficulty]].
-Components are not affected by the Machines's Armor, but can have Armor of their ownq
+All machines's armor is heavily increased, based on the [[Difficulty]].
+Parts are not affected by the Machines's Armor, but can have Armor of their own.
 
 
 Whenever an ranged attack hits a machine, remove an armor from it, and the attack deals 50%/33%/25% of its original damage, based on the [[Difficulty]]

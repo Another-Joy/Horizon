@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machines/Strider.md",
+                "file": "Mechanics/Stealth/Suspected.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Strider"
+              "title": "Suspected"
             }
           }
         ]
@@ -170,12 +170,23 @@
   },
   "active": "e72c25387cb154de",
   "lastOpenFiles": [
-    "Machines/Watcher.md",
-    "Machines/Strider.md",
-    "Weapons/Spears.md",
-    "Weapons/War Bows.md",
+    "Machines/Grazer.md",
+    "Machines/Scrapper.md",
+    "Machines/Generic/Machines's Melee Attacks.md",
+    "Machines/Generic/Direction.md",
+    "Mechanics/Stealth/Suspected.md",
+    "Machines/Generic/Component Terminology.md",
+    "Mechanics/Stealth",
     "Weapons/Slings.md",
     "Weapons/Sharpshoot Bows.md",
+    "Machines/Generic/Armor.md",
+    "Machines/Sawtooth.md",
+    "Machines/Watcher.md",
+    "Machines/Strider.md",
+    "Machines/Shell-Walker.md",
+    "Untitled.md",
+    "Weapons/Spears.md",
+    "Weapons/War Bows.md",
     "Weapons/Rattlers.md",
     "Untitled.canvas"
   ]
