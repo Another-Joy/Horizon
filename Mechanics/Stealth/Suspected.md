@@ -1,8 +1,11 @@
 Now, between Alerted and Unalerted, Machines have a middle state: Suspected.
-During this state the Machine will investigate the source of it's suspicions, like the source of a shot, the end of a movement or a nearby sight. 
+
+During this state, the Machine will investigate the source of it's suspicions, like the source of a shot, the end of a movement or a nearby sight. 
+
+A suspected machine that has reached the source of it's suspicion will remain on that square for another activation, and then return to Unalerted and resume normal function.
+
 
 If a Suspected machine would become Suspected again, it becomes Alerted.
-A suspected machine that has reached the source of it's suspicion will remain on that square for another activation, and then return to Unalerted and resume normal function.
 
 The following events put a Machine on Suspected, from Unalerted:
 - A hunter sprinted or is standing in an adjacent square

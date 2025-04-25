@@ -5,9 +5,10 @@
 | Normal     | 5   | 2     |
 | Hard       | 6   | 2     |
 | Very Hard  | 8   | 3     |
-Encounter points - 1
-Salvage - 1
-Glory points - 1
+
+- Encounter points - 1
+- Salvage - 1
+- Glory points - 1
 
 Weakpoints:
 Eye:

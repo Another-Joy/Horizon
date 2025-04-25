@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mechanics/Stealth/Suspected.md",
+                "file": "Machines/Generic/Armor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Suspected"
+              "title": "Armor"
             }
           }
         ]
@@ -170,24 +170,34 @@
   },
   "active": "e72c25387cb154de",
   "lastOpenFiles": [
-    "Machines/Grazer.md",
-    "Machines/Scrapper.md",
-    "Machines/Generic/Machines's Melee Attacks.md",
-    "Machines/Generic/Direction.md",
-    "Mechanics/Stealth/Suspected.md",
-    "Machines/Generic/Component Terminology.md",
-    "Mechanics/Stealth",
-    "Weapons/Slings.md",
-    "Weapons/Sharpshoot Bows.md",
-    "Machines/Generic/Armor.md",
     "Machines/Sawtooth.md",
-    "Machines/Watcher.md",
+    "Machines/Scrapper.md",
+    "Machines/Grazer.md",
     "Machines/Strider.md",
+    "Machines/Watcher.md",
     "Machines/Shell-Walker.md",
-    "Untitled.md",
+    "Machines/Generic/Machines's Melee Attacks.md",
+    "Machines/Generic/Armor.md",
+    "Machines/Generic/Direction.md",
+    "Machines/Generic/Component Terminology.md",
+    "Coils/Damage Coil.md",
+    "Coils/Tear Coil.md",
+    "Mechanics/Status Effects/Frozen.md",
+    "Coils",
+    "Mechanics/Stealth/Suspected.md",
+    "Mechanics/Campfire Storage.md",
+    "Mechanics/Roaming Machines.md",
+    "Mechanics/Difficulty.md",
+    "Mechanics/Status Effects/Burning.md",
+    "Weapons/Generic.md",
+    "Weapons/Rattlers.md",
+    "Weapons/Sharpshoot Bows.md",
+    "Weapons/Slings.md",
     "Weapons/Spears.md",
     "Weapons/War Bows.md",
-    "Weapons/Rattlers.md",
+    "General Errata.md",
+    "Mechanics/Direction.md",
+    "Mechanics/Stealth",
     "Untitled.canvas"
   ]
 }
