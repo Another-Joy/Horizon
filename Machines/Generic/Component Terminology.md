@@ -20,3 +20,6 @@ EX: a 6 HP Blaze Canister only needs 3 damage and a fire module on the attack (l
 
 #### Difficulty X Encounter
 The selected difficulty by the Leader at the beginning of the encounter, from 1 to 3.
+
+#### Salvage X
+To salvage a specific item, reveal the top card of the salvage deck until you reveal a card that contains the item, or the item and a shard. You cannot get generic items this way.
