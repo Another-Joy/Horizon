@@ -13,6 +13,7 @@ The following events put a Machine on Suspected, from Unalerted:
 - A hunter used a Distraction action (the machine makes the move as the distraction commands, but is put into the suspected state instead of the Unalerted) (Subsequent distractions do not cause a Machine to become Alerted)
 - A hunter shot at the Machine, but only removed up to 1 Armor, dealt up to 1/10th of its health as damage (rounded up) and did not apply a condition. More that either of these and the Machine is Alerted.
 - A machine in the same square is Suspected. This machine follows the same source of suspicion as the machine that caused it to become Suspected.
+- A Hunter attempted a weakpoint attack, but missed
 - Hard+ Exclusive - A machine on an adjacent square is alerted.
 - Very Hard+ Exclusive - A machine on an adjacent square is suspected. This machine follows the same source of suspicion as the machine that caused it to become Suspected.
 
