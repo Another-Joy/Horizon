@@ -9,7 +9,7 @@
 - Glory points - 3
 
 - If this Machine starts Burning while its Cargo Holders remain, reduce the Salvage value by 3, and destroying the Cargo Holders no longer gives salvage.
-- Shield Generator: Ammunition does not give bonus damage, dice or effects
+- Shield Generator: Ammunition does not give bonus damage, dice or effects if this machine is alerted
 
 Weakpoints:
 None
